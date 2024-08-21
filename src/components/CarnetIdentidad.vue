@@ -62,7 +62,7 @@ export default {
           </article>
           <article>
             <header>NÙMERO DOCUMENTO</header>
-            <span>{{ run }}</span>
+            <span>{{ numeroDocumento }}</span>
           </article>
         </div>
         <div class="grid-2-colums">
